@@ -1,12 +1,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5GqrzudeH7m7fKrUoc/giphy.gif" width="300"/>
   <div id="badges">
-    <a href="your-vk-URL">
+    <a href="https://vk.com/l3epanda">
       <img src="https://img.shields.io/badge/Вконтакте-4C75A3?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
     </a>
+    <!--
     <a href="your-twitter-URL">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    -->
   </div>
   <!--<img src="https://komarev.com/ghpvc/?username=13epanda&style=flat-square&color=blue" alt=""/>-->
   <h1>
