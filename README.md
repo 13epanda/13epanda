@@ -55,11 +55,11 @@
 
 ### <img src="https://media.giphy.com/media/LvgVkJnE8eAbkv4EMX/giphy.gif" height="70px"/>  My Stats :
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=13epanda&theme=shades-of-purple)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=13epanda)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=13epanda&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=13epanda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=13epanda&show_icons=true&theme=shades-of-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=13epanda&show_icons=true)
 
 ---
 <div id="footer" align="center">
