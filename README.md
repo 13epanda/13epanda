@@ -1,21 +1,21 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/5GqrzudeH7m7fKrUoc/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/5GqrzudeH7m7fKrUoc/giphy.gif" width="300"/><img src="https://media.giphy.com/media/dsPBfiEEozyXUXShhB/giphy.gif" width="100px"/>
+  <!--
   <div id="badges">
     <a href="https://vk.com/l3epanda">
-      <img src="https://img.shields.io/badge/Вконтакте-4C75A3?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
+      <img src="https://img.shields.io/badge/Vk-4C75A3?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
     </a>
-    <!--
-    <a href="your-twitter-URL">
+    <a href="">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    -->
   </div>
-  <!--<img src="https://komarev.com/ghpvc/?username=13epanda&style=flat-square&color=blue" alt=""/>-->
-  <h1>
-  Hello there
-    <img src="https://media.giphy.com/media/dsPBfiEEozyXUXShhB/giphy.gif" width="50px"/>
-  </h1>
+  -->
+
+### Hello there 
+  <img src="https://komarev.com/ghpvc/?username=13epanda&style=flat&color=lightgrey" alt=""/>
 </div>
+
+---
 
 ###  <img src="https://media.giphy.com/media/rSLTaDa63hJha4WnzU/giphy.gif" height="90px"/> About Me :
 
@@ -65,6 +65,5 @@
 <div id="footer" align="center">
   
  <img src="https://media.giphy.com/media/0xhvPJez78AMJMXuCQ/giphy.gif" height="100px"/>
-  
- ### Thanks for watching
+
 </divr>
